@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OiTHWnMr4ACVnQIk9yHESXKaf4RFnFR1r7lOJkbVyvY5zHy1XWeOLsFOR6xmdiNJZUaTNgHSI8WyfZL4K0RX8g==",
+  "dgSpecHash": "7jZFAWIrJ+2L3/b564y95FI4SVF8I3pjb7tbA8JX6Ed3NPkEltz+SjHOXNsL8nTWEvspEJIBNkhqk+vwQ07o4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali Emre 5078871191\\Documents\\GitHub\\SeniorProjectBackend\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Ali Emre 5078871191\\Documents\\GitHub\\angular-project-1-backend\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Emre 5078871191\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Ali Emre 5078871191\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

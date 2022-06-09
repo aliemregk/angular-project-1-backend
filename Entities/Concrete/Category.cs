@@ -12,7 +12,6 @@ namespace Entities.Concrete
         public int Id { get; set; }
         public string Name { get; set; }
         public int MainCategoryId { get; set; }
-        public int PhotoId { get; set; }
         public int Discount { get; set; }
     }
 }

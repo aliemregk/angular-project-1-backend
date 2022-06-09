@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali Emre 5078871191\\Documents\\GitHub\\SeniorProjectBackend\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Ali Emre 5078871191\\Documents\\GitHub\\angular-project-1-backend\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\Ali Emre 5078871191\\Documents\\GitHub\\SeniorProjectBackend\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\Ali Emre 5078871191\\Documents\\GitHub\\angular-project-1-backend\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Ali Emre 5078871191\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ali Emre 5078871191\\Documents\\GitHub\\SeniorProjectBackend\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\Ali Emre 5078871191\\Documents\\GitHub\\angular-project-1-backend\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ali Emre 5078871191\\AppData\\Roaming\\NuGet\\NuGet.Config",

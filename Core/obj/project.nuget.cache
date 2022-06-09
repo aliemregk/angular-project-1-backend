@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k73YNRQV58xbslOmaQN51MXlfDhOIBI65SAOtPF4hFLdtbJvdO0GTDNymL81WutqyakJZn8tPNj63fVKWggilw==",
+  "dgSpecHash": "9Jx1AXDi9Ki+eUGvuGIl1SYnUYVTREyDtLel2RkHSQcrix6ebVQIbO1qnAnCkHW3WHQQs9AeHYSw+00CLy5zdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali Emre 5078871191\\Documents\\GitHub\\SeniorProjectBackend\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Ali Emre 5078871191\\Documents\\GitHub\\angular-project-1-backend\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Emre 5078871191\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.17\\microsoft.entityframeworkcore.5.0.17.nupkg.sha512",
     "C:\\Users\\Ali Emre 5078871191\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.17\\microsoft.entityframeworkcore.abstractions.5.0.17.nupkg.sha512",

@@ -9,7 +9,6 @@
     <Folder Include="CrossCuttingConcerns\" />
     <Folder Include="DependencyResolvers\" />
     <Folder Include="Extensions\" />
-    <Folder Include="Utilities\" />
   </ItemGroup>
 
   <ItemGroup>
